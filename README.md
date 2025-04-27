@@ -18,5 +18,5 @@
 - esx_default_menu
 
 # 💬 Suggestions or problems?
-- Open an issue or contact the developer directly.
-or open ticket on Discord Server!
+- Open an issue or contact the developer directly, 
+or open ticket on Discord Server.
